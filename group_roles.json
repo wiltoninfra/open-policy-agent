@@ -1,0 +1,16 @@
+{
+  "group_roles": {
+    "GRP_MFO_Master": "Admin",
+    "GRP_MFO_Employee": "Employee",
+    "GRP_MFO_Auditor": "Auditor",
+    "GRP_MFO_Manager": "Manager",
+
+    "GRP_EMP_Master": "Admin",
+    "GRP_EMP_Employee": "Employee",
+    "GRP_EMP_Standard": "Standard",
+    "GRP_EMP_Auditor": "Auditor",
+    "GRP_EMP_Manager": "Manager",
+
+    "GRP_LBSL_Admin": "Admin"
+  }
+}

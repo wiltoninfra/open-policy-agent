@@ -1,0 +1,7 @@
+{
+  "input": {
+    "user.name": "leo.dias",
+    "arn": "org:com:sn::mod:func/action",
+    "groups": ["GRP_EMP_Standard"]
+  }
+}

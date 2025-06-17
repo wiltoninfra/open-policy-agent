@@ -1,0 +1,150 @@
+{
+  "roles_permissions": {
+    "santo": {
+      "graal": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "tiro": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "evolucao": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "meta": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "neverends": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete", "export"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "puntis": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "victoria": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      }
+    },
+    "bobo": {
+      "botas": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "trtas": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "pin": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "pink": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "pof": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      }
+    },
+    "hub": {
+      "iplink": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "lirio": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "ganja": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "perdida": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "dorama": {
+        "Employee": ["create", "update", "read", "view", "export"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "explicitado": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view", "assign"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete", "assign"],
+        "Admin": ["create", "update", "read", "view", "delete", "assign"]
+      },
+      "facebook": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      },
+      "parodia": {
+        "Employee": ["create", "update", "read", "view"],
+        "Standard": ["create", "read", "view"],
+        "Auditor": ["read", "view"],
+        "Manager": ["create", "update", "read", "view", "delete"],
+        "Admin": ["create", "update", "read", "view", "delete"]
+      }
+    }
+  }
+}
